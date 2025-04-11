@@ -11,7 +11,7 @@ export default function RootLayout({ children }) {
       <body>
         <header style={{ backgroundColor: "pink" }}>Header</header>
         {children}
-        <footer style={{ backgroundColor: "pink" }}>Footer.</footer>
+        <footer style={{ backgroundColor: "pink" }}>Footer..</footer>
       </body>
     </html>
   );
